@@ -12,4 +12,5 @@ slides:
   - google-now
   - chat-bot
   - android
+  - siri
 ---
